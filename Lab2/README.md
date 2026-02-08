@@ -1,0 +1,3 @@
+Dataset & Machine Learning Problem Summary
+
+The dataset consists of movie data where each row represents a single movie and each column represents a specific feature such as numerical attributes and categorical information. The dataset includes multiple features and may contain missing values. The machine learning problem is a supervised learning task, where the model learns from labeled data to predict a target variable. Depending on the selected target, the task can be either regression (predicting continuous values like ratings or revenue) or classification (predicting discrete categories such as movie genre or popularity level)
