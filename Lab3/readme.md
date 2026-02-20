@@ -1,7 +1,7 @@
-Exploratory Data Analysis – Chocolate Sales Dataset
+Dataset & Analysis Summary
 
-This assignment focuses on applying Exploratory Data Analysis (EDA) techniques to understand a real-world sales dataset. The process involved inspecting the data structure, identifying and handling missing or inconsistent values, and preparing the dataset for analysis.
+The dataset consists of chocolate sales records, where each row represents a single sales transaction and each column represents a specific feature such as date, country, product, sales person, number of boxes shipped, and revenue amount. The dataset includes both numerical and categorical variables and required basic data cleaning before analysis.
 
-Through univariate, bivariate, and time-based analysis, patterns in revenue, sales distribution, and relationships between variables were identified. This process improved understanding of how raw data is cleaned, explored, and interpreted before any advanced analysis.
+The analytical process focused on exploratory data analysis (EDA), where the data was inspected, cleaned, and visualized to identify patterns and relationships. The task involved analyzing distributions of key variables, examining relationships between boxes shipped and revenue, comparing sales performance across countries and products, and exploring revenue trends over time.
 
-Overall, the assignment strengthened practical skills in data preprocessing, visualization, and extracting meaningful insights from structured data.
+This analysis helps in understanding sales behavior, revenue distribution, and performance variations across different factors, providing meaningful insights from structured business data.
