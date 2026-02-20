@@ -1,7 +1,7 @@
 Dataset & Analysis Summary
 
-The dataset consists of credit card transaction records, where each row represents a single transaction and each column represents a specific feature such as transaction time, transaction amount, anonymized numerical variables, and a target variable indicating whether the transaction is fraudulent or legitimate. The dataset contains primarily numerical features and required basic inspection and duplicate handling before analysis.
+The dataset consists of news articles, where each row represents a single article and each column represents a specific feature such as the article text, title (if available), and a label indicating whether the news is fake or real. The dataset primarily contains textual data along with a categorical target variable used to distinguish between classes.
 
-The analytical process focused on exploratory data analysis (EDA), where the data was examined, cleaned, and visualized to identify patterns and relationships. The analysis included studying the distribution of transaction amounts and time, examining the imbalance between fraud and non-fraud cases, analyzing differences in transaction behavior across classes, and exploring correlations between features.
+The analytical process focused on exploratory data analysis (EDA), where the dataset was inspected, cleaned, and examined to understand its structure and characteristics. The analysis included evaluating the distribution of fake and real news articles, measuring article length through character and word counts, and comparing textual patterns across classes.
 
-This analysis helps in understanding transaction behavior, class imbalance, and key characteristics associated with fraudulent activity, providing meaningful insights from financial transaction data before applying any predictive modeling techniques.
+This analysis helps in understanding structural differences between fake and real news content, identifying class balance, and extracting meaningful insights from textual data before applying any predictive modeling techniques.
